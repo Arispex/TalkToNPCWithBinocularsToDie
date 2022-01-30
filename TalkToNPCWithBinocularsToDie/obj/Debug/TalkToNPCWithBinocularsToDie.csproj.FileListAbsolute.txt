@@ -1,0 +1,15 @@
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/TalkToNPCWithBinocularsToDie.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/TalkToNPCWithBinocularsToDie.pdb
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/OTAPI.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/TerrariaServer.exe
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/TShockAPI.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/Newtonsoft.Json.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/MySql.Data.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/OTAPI.pdb
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/TerrariaServer.pdb
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/bin/Debug/Newtonsoft.Json.xml
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/obj/Debug/TalkToNPCWithBinocularsToDie.csprojAssemblyReference.cache
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/obj/Debug/TalkToNPCWithBinocularsToDie.csproj.CoreCompileInputs.cache
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/obj/Debug/TalkToNPCWithBinocularsToDie.csproj.CopyComplete
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/obj/Debug/TalkToNPCWithBinocularsToDie.dll
+/Users/jinnanxiang/RiderProjects/MyFirstPlugin/TalkToNPCWithBinocularsToDie/obj/Debug/TalkToNPCWithBinocularsToDie.pdb
