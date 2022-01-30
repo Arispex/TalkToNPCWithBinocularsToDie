@@ -3,13 +3,13 @@ A Terraria Tshock plug-in that prevents players from using binoculars bugs to ge
 Players will be killed when they have banned items and talk to NPCs.
 
 # Banned items
-Sniper Scope  
+**Sniper Scope**  
 Internal Item ID: 1858  
-Rifle Scope  
+**Rifle Scope**  
 Internal Item ID: 1300  
-Recon Scope  
+**Recon Scope**  
 Internal Item ID: 4005  
-Sniper Rifle  
+**Sniper Rifle**  
 Internal Item ID: 1254  
-Binoculars  
+**Binoculars**  
 Internal Item ID: 1299  
