@@ -1,5 +1,5 @@
 # TalkToNPCWithBinocularsToDie
-A Terraria Tshock plug-in that prevents players from using binoculars bugs to get items.
+A Terraria Tshock plug-in that prevents players from using binoculars bugs to get items.  
 Players will be killed when they have banned items and talk to NPCs.
 
 # Banned items
